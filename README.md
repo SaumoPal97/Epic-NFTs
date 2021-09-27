@@ -13,3 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+# Frontend code in repl and url
+- URL: https://nft-starter-repo-final.saumopal.repl.co/
+- Code: https://replit.com/@SaumoPal/nft-starter-repo-final#src/App.js
